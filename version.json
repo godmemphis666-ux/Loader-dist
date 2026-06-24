@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "url": "https://cdn.jsdelivr.net/gh/godmemphis666-ux/Loader-dist@e9c53c58e71e0f7dc5afe0a207ef2f44205ac468/loader.exe",
-  "sha256": "b35107de2103a03d3c3b70c7b239deff55f4a1922ea96c1082fd0ec8f9363272",
+  "version": "1.0.6",
+  "url": "https://cdn.jsdelivr.net/gh/godmemphis666-ux/Loader-dist@9506ca30d4a6ec09d259ab9347125b0c2f256688/loader.exe",
+  "sha256": "8023813e2c3c5f808c8a0434ea2cafde64e459352f2368764fc707e96d93bab9",
   "mandatory": true,
-  "notes": "Automated release v1.0.5"
+  "notes": "Automated release v1.0.6"
 }
