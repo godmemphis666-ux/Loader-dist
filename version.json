@@ -1,11 +1,11 @@
 {
-  "version": "1.0.9",
-  "url": "https://cdn.jsdelivr.net/gh/godmemphis666-ux/Loader-dist@3a405bc98daab8e1aaa7da6591beccca5ae8c916/loader.exe",
+  "version": "1.0.10",
+  "url": "https://cdn.jsdelivr.net/gh/godmemphis666-ux/Loader-dist@07e43b27ff9deff901a01a62f05042f847af7daf/loader.exe",
   "mirrors": [
-    "https://gcore.jsdelivr.net/gh/godmemphis666-ux/Loader-dist@3a405bc98daab8e1aaa7da6591beccca5ae8c916/loader.exe",
-    "https://cdn.statically.io/gh/godmemphis666-ux/Loader-dist/3a405bc98daab8e1aaa7da6591beccca5ae8c916/loader.exe"
+    "https://gcore.jsdelivr.net/gh/godmemphis666-ux/Loader-dist@07e43b27ff9deff901a01a62f05042f847af7daf/loader.exe",
+    "https://cdn.statically.io/gh/godmemphis666-ux/Loader-dist/07e43b27ff9deff901a01a62f05042f847af7daf/loader.exe"
   ],
-  "sha256": "975bed579885ad672c70db75f447404629caccb694becb944b12a9d6b0e59db8",
+  "sha256": "2447101a1236a62c925485c228e7b7cfc2df2291957b55a0a94a0a8ed5a2d0b4",
   "mandatory": true,
-  "notes": "Automated release v1.0.9"
+  "notes": "Automated release v1.0.10"
 }
