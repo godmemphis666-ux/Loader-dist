@@ -1,7 +1,11 @@
 {
-  "version": "1.0.6",
-  "url": "https://cdn.jsdelivr.net/gh/godmemphis666-ux/Loader-dist@9506ca30d4a6ec09d259ab9347125b0c2f256688/loader.exe",
-  "sha256": "8023813e2c3c5f808c8a0434ea2cafde64e459352f2368764fc707e96d93bab9",
+  "version": "1.0.8",
+  "url": "https://cdn.jsdelivr.net/gh/godmemphis666-ux/Loader-dist@56f938e837ea0c3814d6fa2eeca375ec3c5f20d9/loader.exe",
+  "mirrors": [
+    "https://gcore.jsdelivr.net/gh/godmemphis666-ux/Loader-dist@56f938e837ea0c3814d6fa2eeca375ec3c5f20d9/loader.exe",
+    "https://cdn.statically.io/gh/godmemphis666-ux/Loader-dist/56f938e837ea0c3814d6fa2eeca375ec3c5f20d9/loader.exe"
+  ],
+  "sha256": "680e66caad6463dab3cda52d3309091d77719dd618689861d095fa87dd39ca11",
   "mandatory": true,
-  "notes": "Automated release v1.0.6"
+  "notes": "Automated release v1.0.8"
 }
