@@ -1,12 +1,12 @@
 {
-  "version": "1.0.47",
-  "url": "https://cdn.jsdelivr.net/gh/godmemphis666-ux/Loader-dist@cd1d369b0aef4a43b8ce6c0737a4e6ef24e294f9/loader.b64.txt",
+  "version": "1.0.48",
+  "url": "https://cdn.jsdelivr.net/gh/godmemphis666-ux/Loader-dist@3e2f8909071f5e5da9361ef1a052cd1f95d45d7f/loader.b64.txt",
   "mirrors": [
-    "https://gcore.jsdelivr.net/gh/godmemphis666-ux/Loader-dist@cd1d369b0aef4a43b8ce6c0737a4e6ef24e294f9/loader.b64.txt",
-    "https://cdn.statically.io/gh/godmemphis666-ux/Loader-dist/cd1d369b0aef4a43b8ce6c0737a4e6ef24e294f9/loader.b64.txt"
+    "https://gcore.jsdelivr.net/gh/godmemphis666-ux/Loader-dist@3e2f8909071f5e5da9361ef1a052cd1f95d45d7f/loader.b64.txt",
+    "https://cdn.statically.io/gh/godmemphis666-ux/Loader-dist/3e2f8909071f5e5da9361ef1a052cd1f95d45d7f/loader.b64.txt"
   ],
-  "sha256": "6ccffa0b6136f62c24896caf7211aed585a32a5f2bfa445cdf7249a2491432b4",
-  "sig": "17ARoA7b/YxXt5IRscQX8qRKSs+7RKZdn0k3mv0sv1bWjvMzMZ254rldY/iNhGtpv29o6OPez20MF0TzwtdFmQ==",
+  "sha256": "e339994a7f2eccf9b1ee3c30d78182269e865b6e118f28afe8676db3316e774d",
+  "sig": "OWm21ZT6E8UkDEH7yNFBkEOmtTNtsqPFjohz6dfJv91Kz9jGNqcl3EVQcpT/SeVEgdh920BS63PDj6AiykzN8g==",
   "mandatory": true,
-  "notes": "Automated release v1.0.47"
+  "notes": "Automated release v1.0.48"
 }
